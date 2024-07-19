@@ -1,0 +1,134 @@
+.nav-ul {
+  padding: 10px;
+  margin: 0;
+  background-color: skyblue;
+  
+}
+
+button{
+  margin-left: 3%;
+  font-size: 20px;
+  color: skyblue;
+  background-color: black;
+}
+.nav-ul li {
+  display: inline-block;
+  margin-right: 10px;
+ 
+}
+.nav-ul li a{
+  color: #fff;
+    padding: 5px;
+    text-decoration: none;
+    
+    
+}
+.register{
+  margin-left: 30%;
+}
+.inputBox{
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+ 
+}
+.bar{
+  text-align: right;
+}
+#footer h1 {
+  margin: 0; 
+  padding: 10px; 
+}
+#footer{
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  background-color: skyblue;
+ 
+}
+.table-container {
+  margin: 20px;
+}
+
+.my-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.my-table th, .my-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.my-table th {
+  background-color: #f2f2f2;
+}
+
+.my-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.my-table tr:hover {
+  background-color: #ddd;
+}
+/* Basic reset and styling */
+
+
+
+
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Table header styles */
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Alternating row colors */
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect on rows */
+tr:hover {
+  background-color: #e9ecef;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  table {
+    font-size: 14px;
+  }
+  th, td {
+    padding: 10px;
+  }
+}
+.Ram{
+  display: block;
+}
+.search
+  {
+    border: solid 2px skyblue;
+    width: 300px;
+    height: 25px;
+
+}
